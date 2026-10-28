@@ -10,7 +10,7 @@ FEATURES = [
     [area, bedrooms, bathrooms, age]
     for area, bedrooms, bathrooms, age in [
         (900, 2, 1, 26),
-        (1100, 2, 1, 15),
+        (1100, 2, 1, 20),
         (1250, 3, 2, 20),
         (1400, 3, 2, 12),
         (1550, 3, 2, 8),
