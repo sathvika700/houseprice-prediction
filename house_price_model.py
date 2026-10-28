@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 FEATURES = [
     [area, bedrooms, bathrooms, age]
     for area, bedrooms, bathrooms, age in [
-        (900, 2, 1, 25),
+        (900, 2, 1, 26),
         (1100, 2, 1, 15),
         (1250, 3, 2, 20),
         (1400, 3, 2, 12),
